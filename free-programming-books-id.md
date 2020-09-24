@@ -53,6 +53,10 @@
 * [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
 
 
+### MySQL 
+
+* [Belajar MYSQL Sampai Mahir](https://drive.google.com/file/d/0B1m6WDCkR1OIVF9VdHhndWNKMGs/view)
+
 ### PHP
 
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
